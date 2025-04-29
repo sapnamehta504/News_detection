@@ -23,7 +23,9 @@ This project is designed to automatically detect fake news using machine learnin
 - scikit-learn / TensorFlow / PyTorch
 
 ## Dataset
-The model is trained on publicly available datasets such as the Fake and Real News Dataset.
+The model is trained on publicly available datasets such as the Fake and Real News Dataset.<br>
+
+Here is the link:
  https://sapnamehta504.github.io/News_detection/
 
 
