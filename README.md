@@ -24,8 +24,6 @@ This project is designed to automatically detect fake news using machine learnin
 
 ## Dataset
 The model is trained on publicly available datasets such as the Fake and Real News Dataset.
-
-📌 Project Links
-Live Site: https://sapnamehta504.github.io/News_detection/
+ https://sapnamehta504.github.io/News_detection/
 
 
